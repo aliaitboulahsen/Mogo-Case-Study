@@ -1,7 +1,4 @@
-# Mogo-Case-Study
-Intro to Finance Homework
-
-# MOGO Case Study
+# Mogo Inc. Case Study
 
 ## Overview and Origin
 
